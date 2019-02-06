@@ -1,5 +1,5 @@
 while True:
-    print('hey there')
+    print('hello there')
     try:
         val1=int(input('input a number:'))
     except ValueError:
